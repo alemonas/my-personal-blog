@@ -3,7 +3,7 @@ import {Link, useStaticQuery, graphql} from 'gatsby';
 
 import Seo from './Seo';
 
-import '../styles/global.css';
+// import * as globalStyles from '../styles/global.module.css';
 // import * as styles from '../styles/layout.module.css';
 
 interface Props {
